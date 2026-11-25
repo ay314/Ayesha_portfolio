@@ -1,5 +1,0 @@
-
-User-agent: *
-Allow: /
-
-Sitemap: https://ayesha-portfolio-digital-marketing.vercel.app/sitemap.xml
